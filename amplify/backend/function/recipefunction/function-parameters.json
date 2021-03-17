@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "storage": {
+      "recipetable": [
+        "create",
+        "read",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
